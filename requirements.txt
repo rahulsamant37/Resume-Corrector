@@ -1,0 +1,12 @@
+streamlit
+langchain
+pytesseract
+pillow
+pdf2image
+pyPDF2
+huggingface_hub
+python-dotenv
+langchain_community
+langchain_huggingface
+reportlab
+pymupdf
